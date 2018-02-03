@@ -1,0 +1,4 @@
+[submodule "odoo-ecuador/odoo-ecuador"]
+	path = odoo-ecuador/odoo-ecuador
+	url = git@github.com:odoo-ecuador/odoo-ecuador.git
+	branch = 10.0
