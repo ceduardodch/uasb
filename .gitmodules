@@ -2,3 +2,8 @@
 	path = odoo-ecuador/odoo-ecuador
 	url = git@github.com:odoo-ecuador/odoo-ecuador.git
 	branch = 10.0
+
+[submodule "openeducat/openeducat_erp"]
+	path = openeducat/openeducat_erp
+	url = git@github.com:openeducat/openeducat_erp.git
+	branch = 10.0
